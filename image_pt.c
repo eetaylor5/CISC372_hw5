@@ -4,7 +4,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include <pthread.h>
-#include "image.h"
+#include "image_pt.h"
 
 #define STB_IMAGE_IMPLEMENTATION
 #include "stb_image.h"

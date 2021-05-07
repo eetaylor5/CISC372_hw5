@@ -5,7 +5,7 @@ image: image.c image.h
 image_omp: image_omp.c image.h
 	gcc -g -fopenmp image_omp.c -o image_omp -lm
 
-image_pt: image_pt.c image.h
+image_pt: image_pt.c image_pt.h
 	gcc -g  image_pt.c -o image_pt -lm -lpthread
 
 clean:

@@ -1,0 +1,13 @@
+Script started on 2021-05-07 03:08:20-04:00
+]0;eetaylor@br012:~/CISC372_hw5[eetaylor@r004 CISC372_hw5]$ ./image pic1.jpg edge[C[1@_[1@o[1@m[1@p
+Took 8 seconds
+]0;eetaylor@br012:~/CISC372_hw5[eetaylor@r004 CISC372_hw5]$ ./image_omp pic1.jpg edge
+Took 7 seconds
+]0;eetaylor@br012:~/CISC372_hw5[eetaylor@r004 CISC372_hw5]$ ./image_omp pic1.jpg edge[1P[1P[C[1@t
+Took 6 seconds
+]0;eetaylor@br012:~/CISC372_hw5[eetaylor@r004 CISC372_hw5]$ ./image_pt pic1.jpg edge
+Took 7 seconds
+]0;eetaylor@br012:~/CISC372_hw5[eetaylor@r004 CISC372_hw5]$ exit
+exit
+
+Script done on 2021-05-07 03:09:39-04:00
